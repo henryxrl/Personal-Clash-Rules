@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,smzdm.com,🌑Proxy
+DOMAIN-SUFFIX,gitv.cn,🌑Proxy
+DOMAIN,v.qq.com,🌐Direct
+DOMAIN-SUFFIX,video.qq.com,🌑Proxy
+DOMAIN,www.iqiyi.com,🌐Direct
+DOMAIN-SUFFIX,video.iqiyi.com,🌑Proxy
+DOMAIN,www.youku.com,🌐Direct
+DOMAIN-SUFFIX,acs.youku.com,🌑Proxy
+DOMAIN,www.kugou.com,🌐Direct
+DOMAIN-SUFFIX,kugou.com,🌑Proxy
+DOMAIN-SUFFIX,music.163.com,🌑Proxy
+DOMAIN-SUFFIX,algo.itcharge.cn,🌑Proxy
+DOMAIN-SUFFIX,aiqicha.baidu.com,🌑Proxy
+DOMAIN-SUFFIX,aizhanxing.com,🌑Proxy
+DOMAIN-SUFFIX,api-hz.cloudbasefunction.cn,🌑Proxy
+DOMAIN-SUFFIX,s1.dcloud.net.cn,🌑Proxy
+GEOIP,CN,🌐Direct
