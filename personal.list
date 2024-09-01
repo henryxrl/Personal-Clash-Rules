@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,smzdm.com
 IP-CIDR,120.53.69.147/32
+IP-CIDR,106.75.126.245/32
 DOMAIN-SUFFIX,gitv.cn
 DOMAIN-SUFFIX,video.qq.com
 DOMAIN-SUFFIX,video.iqiyi.com
@@ -8,6 +9,7 @@ DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,algo.itcharge.cn
 DOMAIN-SUFFIX,aiqicha.baidu.com
+IP-CIDR,112.34.111.96/32
 DOMAIN-SUFFIX,aizhanxing.com
 DOMAIN-SUFFIX,api-hz.cloudbasefunction.cn
 DOMAIN-SUFFIX,s1.dcloud.net.cn
